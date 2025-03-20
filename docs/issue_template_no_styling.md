@@ -19,7 +19,7 @@ HEADER 2 - Task Deadline: [MM/DD/YYYY]
 03/25/2025
 
 HEADER 2 - Task Description:
-
+Complete welcome.js and getname.js have issues please fix them
 
 
 
@@ -55,10 +55,12 @@ HEADER 2 - Testing Requirements:
 
 BOLD/ITALICS - Specify testing requirements for each task, including unit tests and any necessary integration or end-to-end tests.
 
+Make it functional
+
 HEADER 2 - Documentation:
 
 BOLD/ITALICS - Identify any documentation needs associated with the task. This may include code comments, API documentation, or end-user documentation.
 
 HEADER 2 - Definition of Done:
-
+You should be able to input names and ages
 BOLD/ITALICS - Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.
